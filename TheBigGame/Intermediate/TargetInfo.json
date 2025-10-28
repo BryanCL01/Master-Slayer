@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheBigGame",
+			"Path": "..\\Source\\TheBigGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheBigGameEditor",
+			"Path": "..\\Source\\TheBigGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

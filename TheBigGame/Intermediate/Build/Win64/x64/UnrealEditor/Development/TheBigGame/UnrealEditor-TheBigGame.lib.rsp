@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TheBigGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/BCL26/Documents/Unreal Projects/TheBigGame/Intermediate/Build/Win64/x64/TheBigGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/BCL26/Documents/Unreal Projects/TheBigGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/TheBigGame/TheBigGame.cpp.obj"
+"C:/Users/BCL26/Documents/Unreal Projects/TheBigGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/TheBigGame/PerModuleInline.gen.cpp.obj"
+"C:/Users/BCL26/Documents/Unreal Projects/TheBigGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/TheBigGame/Default.rc2.res"
+/OUT:"C:/Users/BCL26/Documents/Unreal Projects/TheBigGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/TheBigGame/UnrealEditor-TheBigGame.lib"

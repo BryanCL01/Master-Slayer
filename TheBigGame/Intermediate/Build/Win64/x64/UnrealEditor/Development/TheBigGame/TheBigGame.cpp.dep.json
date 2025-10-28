@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\bcl26\\documents\\unreal projects\\thebiggame\\source\\thebiggame\\thebiggame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\bcl26\\documents\\unreal projects\\thebiggame\\intermediate\\build\\win64\\x64\\thebiggameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\bcl26\\documents\\unreal projects\\thebiggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thebiggame\\definitions.thebiggame.h",
+            "c:\\users\\bcl26\\documents\\unreal projects\\thebiggame\\source\\thebiggame\\thebiggame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
