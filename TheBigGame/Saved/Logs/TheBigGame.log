@@ -17208,3 +17208,1304 @@ Script Stack (0 frames) :
 [2025.12.10-09.01.47:067][ 69]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29602.808594
 [2025.12.10-09.01.47:214][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.10-09.01.47:214][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29602.937500, Update Interval: 300.228882
+[2025.12.10-09.07.42:068][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29957.900391
+[2025.12.10-09.07.43:069][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.07.43:069][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29958.570312, Update Interval: 303.519409
+[2025.12.10-09.09.14:381][214]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Music/ColosseumFightingMusic.ColosseumFightingMusic
+[2025.12.10-09.09.26:777][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-09.09.26:832][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Music/ColosseumFightingMusic] ([1] browsable assets)...
+[2025.12.10-09.09.26:863][829]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Music/ColosseumFightingMusic.ColosseumFightingMusic]
+[2025.12.10-09.09.26:863][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Music/ColosseumFightingMusic]
+[2025.12.10-09.09.26:863][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Music/ColosseumFightingMusic" FILE="C:/Users/BCL26/Documents/Unreal Projects/Master-Slayer/TheBigGame/Content/Music/ColosseumFightingMusic.uasset" SILENT=true
+[2025.12.10-09.09.26:983][829]LogSavePackage: Moving output files for package: /Game/Music/ColosseumFightingMusic
+[2025.12.10-09.09.26:984][829]LogSavePackage: Moving 'C:/Users/BCL26/Documents/Unreal Projects/Master-Slayer/TheBigGame/Saved/ColosseumFightingMusic1975EADF40E481EE25B3CAB561A4F2FD.tmp' to 'C:/Users/BCL26/Documents/Unreal Projects/Master-Slayer/TheBigGame/Content/Music/ColosseumFightingMusic.uasset'
+[2025.12.10-09.09.27:007][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.974 ms (total: 24.1 sec)
+[2025.12.10-09.09.27:076][829]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-09.09.27:076][829]LogContentValidation: Enabled validators:
+[2025.12.10-09.09.27:076][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-09.09.27:076][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-09.09.27:076][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-09.09.27:076][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-09.09.27:076][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-09.09.27:076][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-09.09.27:076][829]AssetCheck: /Game/Music/ColosseumFightingMusic Validating asset
+[2025.12.10-09.09.31:860][ 69]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Music/MainMenuMusic.MainMenuMusic
+[2025.12.10-09.09.37:177][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-09.09.37:243][333]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Music/MainMenuMusic] ([1] browsable assets)...
+[2025.12.10-09.09.37:304][333]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Music/MainMenuMusic.MainMenuMusic]
+[2025.12.10-09.09.37:304][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Music/MainMenuMusic]
+[2025.12.10-09.09.37:305][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Music/MainMenuMusic" FILE="C:/Users/BCL26/Documents/Unreal Projects/Master-Slayer/TheBigGame/Content/Music/MainMenuMusic.uasset" SILENT=true
+[2025.12.10-09.09.37:564][333]LogSavePackage: Moving output files for package: /Game/Music/MainMenuMusic
+[2025.12.10-09.09.37:565][333]LogSavePackage: Moving 'C:/Users/BCL26/Documents/Unreal Projects/Master-Slayer/TheBigGame/Saved/MainMenuMusicA9FA1C1841DEC8728F9E9EAF414E1771.tmp' to 'C:/Users/BCL26/Documents/Unreal Projects/Master-Slayer/TheBigGame/Content/Music/MainMenuMusic.uasset'
+[2025.12.10-09.09.37:587][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 409.717 ms (total: 24.5 sec)
+[2025.12.10-09.09.37:659][333]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-09.09.37:659][333]LogContentValidation: Enabled validators:
+[2025.12.10-09.09.37:659][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-09.09.37:659][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-09.09.37:659][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-09.09.37:659][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-09.09.37:659][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-09.09.37:660][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-09.09.37:660][333]AssetCheck: /Game/Music/MainMenuMusic Validating asset
+[2025.12.10-09.09.39:867][457]LogWorld: UWorld::CleanupWorld for World_135, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.09.39:867][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.09.40:069][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2025.12.10-09.09.41:197][510]LogWorld: UWorld::CleanupWorld for World_133, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.09.41:197][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.09.41:212][510]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.09.41:212][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.09.41:321][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2025.12.10-09.09.45:675][729]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-09.09.45:703][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-09.09.45:704][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.09.45:708][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004180s)
+[2025.12.10-09.09.45:708][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.004360s)
+[2025.12.10-09.09.45:752][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2025.12.10-09.09.45:761][729]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.09.45:763][729]LogPlayLevel: PIE: World Init took: (0.002308s)
+[2025.12.10-09.09.45:764][729]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2025.12.10-09.09.45:764][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-09.09.45:764][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-09.09.45:764][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-09.09.45:764][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-09.09.45:764][729]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-09.09.45:764][729]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-09.09.45:764][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-09.09.45:764][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-09.09.45:764][729]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-09.09.45:764][729]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-09.09.45:764][729]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-09.09.45:770][729]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-09.09.45:801][729]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB Audio)
+[2025.12.10-09.09.45:802][729]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-09.09.45:802][729]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-09.09.45:802][729]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-09.09.45:803][729]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=76
+[2025.12.10-09.09.45:803][729]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2025.12.10-09.09.45:808][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2025.12.10-09.09.45:808][729]LogInit: FAudioDevice initialized with ID 76.
+[2025.12.10-09.09.45:808][729]LogAudio: Display: Audio Device (ID: 76) registered with world 'MainMenu'.
+[2025.12.10-09.09.45:808][729]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=76
+[2025.12.10-09.09.45:808][729]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 76
+[2025.12.10-09.09.45:816][729]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.09.45:817][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.09.45
+[2025.12.10-09.09.45:817][729]LogWorld: Bringing up level for play took: 0.000641
+[2025.12.10-09.09.45:821][729]LogOnline: OSS: Created online subsystem instance for: :Context_178
+[2025.12.10-09.09.45:823][729]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.09.45:825][729]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.10-09.09.45:827][729]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.09.45:827][729]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.09.45:828][729]PIE: Server logged in
+[2025.12.10-09.09.45:835][729]PIE: Play in editor total start time 0.145 seconds.
+[2025.12.10-09.09.45:840][729]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.10.12:228][534]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Music/MainMenuMusic.MainMenuMusic
+[2025.12.10-09.10.20:530][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-09.10.20:530][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Music/MainMenuMusic] ([1] browsable assets)...
+[2025.12.10-09.10.20:596][971]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Music/MainMenuMusic.MainMenuMusic]
+[2025.12.10-09.10.20:596][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Music/MainMenuMusic]
+[2025.12.10-09.10.20:596][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Music/MainMenuMusic" FILE="C:/Users/BCL26/Documents/Unreal Projects/Master-Slayer/TheBigGame/Content/Music/MainMenuMusic.uasset" SILENT=true
+[2025.12.10-09.10.20:873][971]LogSavePackage: Moving output files for package: /Game/Music/MainMenuMusic
+[2025.12.10-09.10.20:874][971]LogSavePackage: Moving 'C:/Users/BCL26/Documents/Unreal Projects/Master-Slayer/TheBigGame/Saved/MainMenuMusicC1B1637F4EDC6B10BC4CB8B548868E2C.tmp' to 'C:/Users/BCL26/Documents/Unreal Projects/Master-Slayer/TheBigGame/Content/Music/MainMenuMusic.uasset'
+[2025.12.10-09.10.20:877][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 347.577 ms (total: 24.9 sec)
+[2025.12.10-09.10.20:885][971]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-09.10.20:885][971]LogContentValidation: Enabled validators:
+[2025.12.10-09.10.20:885][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-09.10.20:885][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-09.10.20:885][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-09.10.20:885][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-09.10.20:885][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-09.10.20:885][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-09.10.20:885][971]AssetCheck: /Game/Music/MainMenuMusic Validating asset
+[2025.12.10-09.10.22:816][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.10.22:816][ 70]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.10.22:816][ 70]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.10.22:816][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.10.22:819][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-09.10.22:827][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.10.22:863][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.10.22:864][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 76
+[2025.12.10-09.10.22:864][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76, StreamState=4
+[2025.12.10-09.10.22:867][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76, StreamState=2
+[2025.12.10-09.10.22:898][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.12.10-09.10.22:944][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_178
+[2025.12.10-09.10.23:889][119]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-09.10.23:913][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-09.10.23:914][119]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.10.23:916][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002209s)
+[2025.12.10-09.10.23:916][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002261s)
+[2025.12.10-09.10.23:961][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.12.10-09.10.23:967][119]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.10.23:970][119]LogPlayLevel: PIE: World Init took: (0.003032s)
+[2025.12.10-09.10.23:972][119]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2025.12.10-09.10.23:972][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-09.10.23:972][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-09.10.23:972][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-09.10.23:972][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-09.10.23:972][119]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-09.10.23:972][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-09.10.23:972][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-09.10.23:972][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-09.10.23:972][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-09.10.23:972][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-09.10.23:972][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-09.10.23:976][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-09.10.24:004][119]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB Audio)
+[2025.12.10-09.10.24:004][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-09.10.24:004][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-09.10.24:004][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-09.10.24:004][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2025.12.10-09.10.24:004][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2025.12.10-09.10.24:008][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2025.12.10-09.10.24:008][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2025.12.10-09.10.24:008][119]LogInit: FAudioDevice initialized with ID 77.
+[2025.12.10-09.10.24:008][119]LogAudio: Display: Audio Device (ID: 77) registered with world 'MainMenu'.
+[2025.12.10-09.10.24:008][119]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2025.12.10-09.10.24:015][119]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.10.24:017][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.10.24
+[2025.12.10-09.10.24:017][119]LogWorld: Bringing up level for play took: 0.000533
+[2025.12.10-09.10.24:020][119]LogOnline: OSS: Created online subsystem instance for: :Context_179
+[2025.12.10-09.10.24:021][119]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.10.24:023][119]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.10-09.10.24:024][119]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.10.24:024][119]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.10.24:025][119]PIE: Server logged in
+[2025.12.10-09.10.24:030][119]PIE: Play in editor total start time 0.125 seconds.
+[2025.12.10-09.10.24:034][119]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.10.44:729][978]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.10.44:730][978]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.10.44:732][978]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Class_Selection_Menu"
+[2025.12.10-09.10.44:732][978]LogNet: Browse: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.10.44:733][978]LogLoad: LoadMap: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.10.44:733][978]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.10.44:735][978]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.10.44:735][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.10.44:810][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.10.44:815][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2025.12.10-09.10.44:824][978]LogStreaming: Display: FlushAsyncLoading(1008): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.10.44:890][978]LogAudio: Display: Audio Device (ID: 77) registered with world 'Class_Selection_Menu'.
+[2025.12.10-09.10.44:890][978]LogChaosDD: Creating Chaos Debug Draw Scene for world Class_Selection_Menu
+[2025.12.10-09.10.44:893][978]LogPlayLevel: PIE: World Init took: (0.002289s)
+[2025.12.10-09.10.44:893][978]LogLoad: Game class is 'BP_Class_Select_C'
+[2025.12.10-09.10.44:893][978]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Class_Selection_Menu.Class_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.10.44
+[2025.12.10-09.10.44:894][978]LogWorld: Bringing up level for play took: 0.000757
+[2025.12.10-09.10.44:894][978]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.10.44:896][978]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.10.44:897][978]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.10.44:898][978]LogLoad: Took 0.165323 seconds to LoadMap(/Game/Maps/Class_Selection_Menu)
+[2025.12.10-09.10.44:898][978]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.10.48:278][133]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Warrior
+[2025.12.10-09.10.48:973][167]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Marksmen
+[2025.12.10-09.10.49:674][202]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Rogue
+[2025.12.10-09.10.50:238][230]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Wizard
+[2025.12.10-09.10.51:075][273]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Warrior
+[2025.12.10-09.10.56:469][536]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Mob_Selection_Menu"
+[2025.12.10-09.10.56:469][536]LogNet: Browse: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.10.56:469][536]LogLoad: LoadMap: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.10.56:469][536]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Class_Selection_Menu
+[2025.12.10-09.10.56:471][536]LogWorld: UWorld::CleanupWorld for Class_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.10.56:471][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.10.56:519][536]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.10.56:524][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.12.10-09.10.56:531][536]LogStreaming: Display: FlushAsyncLoading(1009): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.10.56:591][536]LogAudio: Display: Audio Device (ID: 77) registered with world 'Mob_Selection_Menu'.
+[2025.12.10-09.10.56:591][536]LogChaosDD: Creating Chaos Debug Draw Scene for world Mob_Selection_Menu
+[2025.12.10-09.10.56:593][536]LogPlayLevel: PIE: World Init took: (0.001998s)
+[2025.12.10-09.10.56:593][536]LogLoad: Game class is 'BP_Mob_Selection_C'
+[2025.12.10-09.10.56:593][536]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mob_Selection_Menu.Mob_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.10.56
+[2025.12.10-09.10.56:594][536]LogWorld: Bringing up level for play took: 0.000670
+[2025.12.10-09.10.56:594][536]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.10.56:597][536]LogLoad: Took 0.127886 seconds to LoadMap(/Game/Maps/Mob_Selection_Menu)
+[2025.12.10-09.10.56:597][536]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.11.15:094][476]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Selection_Menu"
+[2025.12.10-09.11.15:094][476]LogNet: Browse: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.11.15:094][476]LogLoad: LoadMap: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.11.15:094][476]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mob_Selection_Menu
+[2025.12.10-09.11.15:096][476]LogWorld: UWorld::CleanupWorld for Mob_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.11.15:096][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.11.15:140][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.11.15:143][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.12.10-09.11.15:152][476]LogStreaming: Display: FlushAsyncLoading(1010): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.11.15:211][476]LogAudio: Display: Audio Device (ID: 77) registered with world 'Map_Selection_Menu'.
+[2025.12.10-09.11.15:211][476]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Selection_Menu
+[2025.12.10-09.11.15:213][476]LogPlayLevel: PIE: World Init took: (0.001915s)
+[2025.12.10-09.11.15:213][476]LogLoad: Game class is 'BP_Map_Selection_C'
+[2025.12.10-09.11.15:214][476]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Selection_Menu.Map_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.11.15
+[2025.12.10-09.11.15:214][476]LogWorld: Bringing up level for play took: 0.000738
+[2025.12.10-09.11.15:215][476]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.11.15:218][476]LogLoad: Took 0.123752 seconds to LoadMap(/Game/Maps/Map_Selection_Menu)
+[2025.12.10-09.11.15:218][476]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.11.22:360][842]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Colosseum"
+[2025.12.10-09.11.22:360][842]LogNet: Browse: /Game/Maps/Map_Colosseum
+[2025.12.10-09.11.22:360][842]LogLoad: LoadMap: /Game/Maps/Map_Colosseum
+[2025.12.10-09.11.22:360][842]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Selection_Menu
+[2025.12.10-09.11.22:361][842]LogWorld: UWorld::CleanupWorld for Map_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.11.22:361][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.11.22:402][842]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.11.22:406][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2025.12.10-09.11.22:414][842]LogStreaming: Display: FlushAsyncLoading(1011): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.11.22:501][842]LogAudio: Display: Audio Device (ID: 77) registered with world 'Map_Colosseum'.
+[2025.12.10-09.11.22:501][842]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.11.22:503][842]LogPlayLevel: PIE: World Init took: (0.002425s)
+[2025.12.10-09.11.22:503][842]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.11.22:510][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Colosseum.Map_Colosseum up for play (max tick rate 60) at 2025.12.10-01.11.22
+[2025.12.10-09.11.22:511][842]LogWorld: Bringing up level for play took: 0.007480
+[2025.12.10-09.11.22:513][842]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.11.22:515][842]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.11.22:515][842]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.11.22:526][842]LogLoad: Took 0.165662 seconds to LoadMap(/Game/Maps/Map_Colosseum)
+[2025.12.10-09.11.22:526][842]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Colosseum
+[2025.12.10-09.11.39:312][584]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.11.39:312][584]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.11.45:878][880]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MainMenu"
+[2025.12.10-09.11.45:878][880]LogNet: Browse: /Game/Maps/MainMenu
+[2025.12.10-09.11.45:878][880]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2025.12.10-09.11.45:878][880]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Colosseum
+[2025.12.10-09.11.45:879][880]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.11.45:880][880]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.11.45:882][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.11.45:954][880]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.11.45:960][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.12.10-09.11.45:969][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.11.45:972][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002190s)
+[2025.12.10-09.11.45:972][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002277s)
+[2025.12.10-09.11.45:972][880]LogAudio: Display: Audio Device (ID: 77) registered with world 'MainMenu'.
+[2025.12.10-09.11.45:972][880]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.11.45:974][880]LogPlayLevel: PIE: World Init took: (0.002138s)
+[2025.12.10-09.11.45:974][880]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.11.45:974][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.11.45
+[2025.12.10-09.11.45:974][880]LogWorld: Bringing up level for play took: 0.000450
+[2025.12.10-09.11.45:975][880]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.11.45:976][880]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.11.45:976][880]LogBlueprintUserMessages: [BP_BaseMode_C_0] ERROR: NO PLAYER START FOUND!
+[2025.12.10-09.11.45:976][880]LogLoad: Took 0.097778 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2025.12.10-09.11.45:976][880]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.11.45:978][880]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.11.46:962][928]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.11.46:963][928]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.11.46:965][928]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Class_Selection_Menu"
+[2025.12.10-09.11.46:965][928]LogNet: Browse: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.11.46:965][928]LogLoad: LoadMap: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.11.46:965][928]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.11.46:966][928]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.11.46:966][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.11.47:041][928]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.11.47:044][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.12.10-09.11.47:054][928]LogStreaming: Display: FlushAsyncLoading(1012): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.11.47:118][928]LogAudio: Display: Audio Device (ID: 77) registered with world 'Class_Selection_Menu'.
+[2025.12.10-09.11.47:118][928]LogChaosDD: Creating Chaos Debug Draw Scene for world Class_Selection_Menu
+[2025.12.10-09.11.47:120][928]LogPlayLevel: PIE: World Init took: (0.002229s)
+[2025.12.10-09.11.47:120][928]LogLoad: Game class is 'BP_Class_Select_C'
+[2025.12.10-09.11.47:121][928]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Class_Selection_Menu.Class_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.11.47
+[2025.12.10-09.11.47:121][928]LogWorld: Bringing up level for play took: 0.000862
+[2025.12.10-09.11.47:122][928]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.11.47:124][928]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.11.47:124][928]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.11.47:125][928]LogLoad: Took 0.160390 seconds to LoadMap(/Game/Maps/Class_Selection_Menu)
+[2025.12.10-09.11.47:125][928]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.11.50:626][ 96]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Mob_Selection_Menu"
+[2025.12.10-09.11.50:626][ 96]LogNet: Browse: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.11.50:626][ 96]LogLoad: LoadMap: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.11.50:626][ 96]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Class_Selection_Menu
+[2025.12.10-09.11.50:628][ 96]LogWorld: UWorld::CleanupWorld for Class_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.11.50:628][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.11.50:708][ 96]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.11.50:711][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.12.10-09.11.50:720][ 96]LogStreaming: Display: FlushAsyncLoading(1013): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.11.50:785][ 96]LogAudio: Display: Audio Device (ID: 77) registered with world 'Mob_Selection_Menu'.
+[2025.12.10-09.11.50:785][ 96]LogChaosDD: Creating Chaos Debug Draw Scene for world Mob_Selection_Menu
+[2025.12.10-09.11.50:787][ 96]LogPlayLevel: PIE: World Init took: (0.002327s)
+[2025.12.10-09.11.50:787][ 96]LogLoad: Game class is 'BP_Mob_Selection_C'
+[2025.12.10-09.11.50:788][ 96]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mob_Selection_Menu.Mob_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.11.50
+[2025.12.10-09.11.50:788][ 96]LogWorld: Bringing up level for play took: 0.000801
+[2025.12.10-09.11.50:788][ 96]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.11.50:792][ 96]LogLoad: Took 0.165350 seconds to LoadMap(/Game/Maps/Mob_Selection_Menu)
+[2025.12.10-09.11.50:792][ 96]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.11.55:524][330]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Selection_Menu"
+[2025.12.10-09.11.55:524][330]LogNet: Browse: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.11.55:524][330]LogLoad: LoadMap: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.11.55:524][330]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mob_Selection_Menu
+[2025.12.10-09.11.55:526][330]LogWorld: UWorld::CleanupWorld for Mob_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.11.55:526][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.11.55:571][330]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.11.55:575][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2025.12.10-09.11.55:583][330]LogStreaming: Display: FlushAsyncLoading(1014): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.11.55:644][330]LogAudio: Display: Audio Device (ID: 77) registered with world 'Map_Selection_Menu'.
+[2025.12.10-09.11.55:644][330]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Selection_Menu
+[2025.12.10-09.11.55:646][330]LogPlayLevel: PIE: World Init took: (0.002051s)
+[2025.12.10-09.11.55:646][330]LogLoad: Game class is 'BP_Map_Selection_C'
+[2025.12.10-09.11.55:646][330]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Selection_Menu.Map_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.11.55
+[2025.12.10-09.11.55:647][330]LogWorld: Bringing up level for play took: 0.000667
+[2025.12.10-09.11.55:647][330]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.11.55:650][330]LogLoad: Took 0.125616 seconds to LoadMap(/Game/Maps/Map_Selection_Menu)
+[2025.12.10-09.11.55:650][330]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.11.57:725][437]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Colosseum"
+[2025.12.10-09.11.57:725][437]LogNet: Browse: /Game/Maps/Map_Colosseum
+[2025.12.10-09.11.57:726][437]LogLoad: LoadMap: /Game/Maps/Map_Colosseum
+[2025.12.10-09.11.57:726][437]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Selection_Menu
+[2025.12.10-09.11.57:728][437]LogWorld: UWorld::CleanupWorld for Map_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.11.57:728][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.11.57:808][437]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.11.57:811][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.12.10-09.11.57:820][437]LogStreaming: Display: FlushAsyncLoading(1015): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.11.57:902][437]LogAudio: Display: Audio Device (ID: 77) registered with world 'Map_Colosseum'.
+[2025.12.10-09.11.57:902][437]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.11.57:904][437]LogPlayLevel: PIE: World Init took: (0.002071s)
+[2025.12.10-09.11.57:904][437]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.11.57:911][437]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Colosseum.Map_Colosseum up for play (max tick rate 60) at 2025.12.10-01.11.57
+[2025.12.10-09.11.57:911][437]LogWorld: Bringing up level for play took: 0.007408
+[2025.12.10-09.11.57:913][437]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.11.57:915][437]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.11.57:915][437]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.11.57:940][437]LogLoad: Took 0.214842 seconds to LoadMap(/Game/Maps/Map_Colosseum)
+[2025.12.10-09.11.57:940][437]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Colosseum
+[2025.12.10-09.11.59:771][516]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.11.59:771][516]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.10-09.11.59:771][516]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.12.10-09.12.01:963][619]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MainMenu"
+[2025.12.10-09.12.01:963][619]LogNet: Browse: /Game/Maps/MainMenu
+[2025.12.10-09.12.01:963][619]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2025.12.10-09.12.01:963][619]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Colosseum
+[2025.12.10-09.12.01:963][619]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.12.01:966][619]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.12.01:970][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.12.02:040][619]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.12.02:045][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.12.10-09.12.02:055][619]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.12.02:057][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002307s)
+[2025.12.10-09.12.02:057][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002374s)
+[2025.12.10-09.12.02:057][619]LogAudio: Display: Audio Device (ID: 77) registered with world 'MainMenu'.
+[2025.12.10-09.12.02:057][619]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.12.02:059][619]LogPlayLevel: PIE: World Init took: (0.001986s)
+[2025.12.10-09.12.02:059][619]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.12.02:060][619]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.12.02
+[2025.12.10-09.12.02:060][619]LogWorld: Bringing up level for play took: 0.000486
+[2025.12.10-09.12.02:060][619]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.12.02:061][619]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.12.02:061][619]LogBlueprintUserMessages: [BP_BaseMode_C_0] ERROR: NO PLAYER START FOUND!
+[2025.12.10-09.12.02:062][619]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.12.10-09.12.02:062][619]LogLoad: Took 0.098765 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2025.12.10-09.12.02:062][619]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.12.02:063][619]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.12.09:127][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.12.09:127][965]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.12.09:127][965]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.12.09:127][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.12.09:129][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-09.12.09:137][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.12.09:181][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.12.09:181][965]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2025.12.10-09.12.09:181][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77, StreamState=4
+[2025.12.10-09.12.09:187][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77, StreamState=2
+[2025.12.10-09.12.09:199][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2025.12.10-09.12.09:278][966]LogPlayLevel: Display: Destroying online subsystem :Context_179
+[2025.12.10-09.13.36:090][720]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30311.941406
+[2025.12.10-09.13.36:777][723]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.13.36:777][723]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30312.611328, Update Interval: 328.699005
+[2025.12.10-09.13.39:394][855]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-09.13.39:415][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-09.13.39:415][855]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.13.39:418][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002995s)
+[2025.12.10-09.13.39:418][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003038s)
+[2025.12.10-09.13.39:460][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.12.10-09.13.39:467][855]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.13.39:469][855]LogPlayLevel: PIE: World Init took: (0.002026s)
+[2025.12.10-09.13.39:470][855]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2025.12.10-09.13.39:470][855]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-09.13.39:470][855]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-09.13.39:471][855]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-09.13.39:471][855]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-09.13.39:471][855]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-09.13.39:471][855]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-09.13.39:471][855]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-09.13.39:471][855]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-09.13.39:471][855]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-09.13.39:471][855]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-09.13.39:471][855]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-09.13.39:474][855]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-09.13.39:503][855]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB Audio)
+[2025.12.10-09.13.39:503][855]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-09.13.39:503][855]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-09.13.39:503][855]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-09.13.39:504][855]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2025.12.10-09.13.39:504][855]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2025.12.10-09.13.39:507][855]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2025.12.10-09.13.39:507][855]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2025.12.10-09.13.39:507][855]LogInit: FAudioDevice initialized with ID 78.
+[2025.12.10-09.13.39:507][855]LogAudio: Display: Audio Device (ID: 78) registered with world 'MainMenu'.
+[2025.12.10-09.13.39:507][855]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2025.12.10-09.13.39:515][855]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.13.39:515][855]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.13.39
+[2025.12.10-09.13.39:516][855]LogWorld: Bringing up level for play took: 0.000939
+[2025.12.10-09.13.39:519][855]LogOnline: OSS: Created online subsystem instance for: :Context_180
+[2025.12.10-09.13.39:520][855]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.13.39:523][855]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.10-09.13.39:524][855]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.13.39:524][855]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.13.39:525][855]PIE: Server logged in
+[2025.12.10-09.13.39:530][855]PIE: Play in editor total start time 0.122 seconds.
+[2025.12.10-09.13.39:534][855]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.13.46:507][197]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.13.46:507][197]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.13.46:509][197]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Class_Selection_Menu"
+[2025.12.10-09.13.46:509][197]LogNet: Browse: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.13.46:509][197]LogLoad: LoadMap: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.13.46:509][197]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.13.46:510][197]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.13.46:511][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.13.46:575][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.13.46:579][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.12.10-09.13.46:587][197]LogStreaming: Display: FlushAsyncLoading(1016): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.13.46:652][197]LogAudio: Display: Audio Device (ID: 78) registered with world 'Class_Selection_Menu'.
+[2025.12.10-09.13.46:652][197]LogChaosDD: Creating Chaos Debug Draw Scene for world Class_Selection_Menu
+[2025.12.10-09.13.46:654][197]LogPlayLevel: PIE: World Init took: (0.001900s)
+[2025.12.10-09.13.46:654][197]LogLoad: Game class is 'BP_Class_Select_C'
+[2025.12.10-09.13.46:655][197]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Class_Selection_Menu.Class_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.13.46
+[2025.12.10-09.13.46:655][197]LogWorld: Bringing up level for play took: 0.000733
+[2025.12.10-09.13.46:656][197]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.13.46:658][197]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.13.46:658][197]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.13.46:659][197]LogLoad: Took 0.149916 seconds to LoadMap(/Game/Maps/Class_Selection_Menu)
+[2025.12.10-09.13.46:659][197]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.13.48:817][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.13.48:817][303]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Class_Selection_Menu
+[2025.12.10-09.13.48:817][303]LogWorld: UWorld::CleanupWorld for Class_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.13.48:817][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.13.48:819][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-09.13.48:827][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.13.48:868][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.13.48:868][303]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2025.12.10-09.13.48:868][303]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78, StreamState=4
+[2025.12.10-09.13.48:871][303]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78, StreamState=2
+[2025.12.10-09.13.48:882][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2025.12.10-09.13.48:940][304]LogPlayLevel: Display: Destroying online subsystem :Context_180
+[2025.12.10-09.14.21:696][500]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-09.14.21:719][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-09.14.21:720][500]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.14.21:722][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002043s)
+[2025.12.10-09.14.21:722][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002092s)
+[2025.12.10-09.14.21:761][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.12.10-09.14.21:769][500]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.14.21:771][500]LogPlayLevel: PIE: World Init took: (0.002172s)
+[2025.12.10-09.14.21:772][500]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2025.12.10-09.14.21:772][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-09.14.21:772][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-09.14.21:772][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-09.14.21:772][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-09.14.21:772][500]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-09.14.21:772][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-09.14.21:772][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-09.14.21:772][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-09.14.21:772][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-09.14.21:772][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-09.14.21:772][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-09.14.21:776][500]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-09.14.21:805][500]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB Audio)
+[2025.12.10-09.14.21:805][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-09.14.21:805][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-09.14.21:805][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-09.14.21:806][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2025.12.10-09.14.21:806][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2025.12.10-09.14.21:809][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2025.12.10-09.14.21:809][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2025.12.10-09.14.21:809][500]LogInit: FAudioDevice initialized with ID 79.
+[2025.12.10-09.14.21:809][500]LogAudio: Display: Audio Device (ID: 79) registered with world 'MainMenu'.
+[2025.12.10-09.14.21:809][500]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2025.12.10-09.14.21:818][500]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.14.21:818][500]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.14.21
+[2025.12.10-09.14.21:818][500]LogWorld: Bringing up level for play took: 0.000591
+[2025.12.10-09.14.21:821][500]LogOnline: OSS: Created online subsystem instance for: :Context_181
+[2025.12.10-09.14.21:823][500]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.14.21:825][500]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.10-09.14.21:826][500]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.14.21:826][500]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.14.21:827][500]PIE: Server logged in
+[2025.12.10-09.14.21:832][500]PIE: Play in editor total start time 0.122 seconds.
+[2025.12.10-09.14.21:836][500]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.14.38:127][162]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.14.38:127][162]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.14.38:129][162]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Class_Selection_Menu"
+[2025.12.10-09.14.38:129][162]LogNet: Browse: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.14.38:129][162]LogLoad: LoadMap: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.14.38:129][162]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.14.38:131][162]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.14.38:131][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.14.38:216][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.14.38:220][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.12.10-09.14.38:228][162]LogStreaming: Display: FlushAsyncLoading(1017): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.14.38:286][162]LogAudio: Display: Audio Device (ID: 79) registered with world 'Class_Selection_Menu'.
+[2025.12.10-09.14.38:286][162]LogChaosDD: Creating Chaos Debug Draw Scene for world Class_Selection_Menu
+[2025.12.10-09.14.38:288][162]LogPlayLevel: PIE: World Init took: (0.002309s)
+[2025.12.10-09.14.38:288][162]LogLoad: Game class is 'BP_Class_Select_C'
+[2025.12.10-09.14.38:289][162]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Class_Selection_Menu.Class_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.14.38
+[2025.12.10-09.14.38:289][162]LogWorld: Bringing up level for play took: 0.000703
+[2025.12.10-09.14.38:290][162]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.14.38:292][162]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.14.38:292][162]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.14.38:293][162]LogLoad: Took 0.163930 seconds to LoadMap(/Game/Maps/Class_Selection_Menu)
+[2025.12.10-09.14.38:293][162]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.14.41:189][310]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Marksmen
+[2025.12.10-09.14.42:256][366]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Warrior
+[2025.12.10-09.14.42:663][387]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Marksmen
+[2025.12.10-09.14.43:327][421]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Wizard
+[2025.12.10-09.14.44:088][460]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Rogue
+[2025.12.10-09.14.45:274][522]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Warrior
+[2025.12.10-09.14.47:687][643]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Mob_Selection_Menu"
+[2025.12.10-09.14.47:688][643]LogNet: Browse: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.14.47:688][643]LogLoad: LoadMap: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.14.47:688][643]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Class_Selection_Menu
+[2025.12.10-09.14.47:690][643]LogWorld: UWorld::CleanupWorld for Class_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.14.47:690][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.14.47:747][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.14.47:752][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2025.12.10-09.14.47:760][643]LogStreaming: Display: FlushAsyncLoading(1018): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.14.47:824][643]LogAudio: Display: Audio Device (ID: 79) registered with world 'Mob_Selection_Menu'.
+[2025.12.10-09.14.47:824][643]LogChaosDD: Creating Chaos Debug Draw Scene for world Mob_Selection_Menu
+[2025.12.10-09.14.47:826][643]LogPlayLevel: PIE: World Init took: (0.002728s)
+[2025.12.10-09.14.47:826][643]LogLoad: Game class is 'BP_Mob_Selection_C'
+[2025.12.10-09.14.47:827][643]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mob_Selection_Menu.Mob_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.14.47
+[2025.12.10-09.14.47:827][643]LogWorld: Bringing up level for play took: 0.000818
+[2025.12.10-09.14.47:828][643]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.14.47:832][643]LogLoad: Took 0.144168 seconds to LoadMap(/Game/Maps/Mob_Selection_Menu)
+[2025.12.10-09.14.47:832][643]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.15.04:128][462]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Selection_Menu"
+[2025.12.10-09.15.04:128][462]LogNet: Browse: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.15.04:128][462]LogLoad: LoadMap: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.15.04:128][462]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mob_Selection_Menu
+[2025.12.10-09.15.04:130][462]LogWorld: UWorld::CleanupWorld for Mob_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.15.04:130][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.15.04:173][462]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.15.04:177][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.12.10-09.15.04:186][462]LogStreaming: Display: FlushAsyncLoading(1019): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.15.04:246][462]LogAudio: Display: Audio Device (ID: 79) registered with world 'Map_Selection_Menu'.
+[2025.12.10-09.15.04:246][462]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Selection_Menu
+[2025.12.10-09.15.04:249][462]LogPlayLevel: PIE: World Init took: (0.003284s)
+[2025.12.10-09.15.04:249][462]LogLoad: Game class is 'BP_Map_Selection_C'
+[2025.12.10-09.15.04:250][462]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Selection_Menu.Map_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.15.04
+[2025.12.10-09.15.04:250][462]LogWorld: Bringing up level for play took: 0.000659
+[2025.12.10-09.15.04:250][462]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.15.04:253][462]LogLoad: Took 0.124741 seconds to LoadMap(/Game/Maps/Map_Selection_Menu)
+[2025.12.10-09.15.04:253][462]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.15.14:129][976]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Colosseum"
+[2025.12.10-09.15.14:130][976]LogNet: Browse: /Game/Maps/Map_Colosseum
+[2025.12.10-09.15.14:130][976]LogLoad: LoadMap: /Game/Maps/Map_Colosseum
+[2025.12.10-09.15.14:130][976]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Selection_Menu
+[2025.12.10-09.15.14:131][976]LogWorld: UWorld::CleanupWorld for Map_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.15.14:131][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.15.14:176][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.15.14:181][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2025.12.10-09.15.14:190][976]LogStreaming: Display: FlushAsyncLoading(1020): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.15.14:270][976]LogAudio: Display: Audio Device (ID: 79) registered with world 'Map_Colosseum'.
+[2025.12.10-09.15.14:270][976]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.15.14:273][976]LogPlayLevel: PIE: World Init took: (0.002466s)
+[2025.12.10-09.15.14:273][976]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.15.14:280][976]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Colosseum.Map_Colosseum up for play (max tick rate 60) at 2025.12.10-01.15.14
+[2025.12.10-09.15.14:281][976]LogWorld: Bringing up level for play took: 0.008255
+[2025.12.10-09.15.14:283][976]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.15.14:285][976]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.15.14:285][976]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.15.14:291][976]LogLoad: Took 0.161860 seconds to LoadMap(/Game/Maps/Map_Colosseum)
+[2025.12.10-09.15.14:291][976]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Colosseum
+[2025.12.10-09.15.27:026][547]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.15.27:026][547]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.15.37:197][ 15]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Mob_Selection_Menu"
+[2025.12.10-09.15.37:197][ 15]LogNet: Browse: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.15.37:197][ 15]LogLoad: LoadMap: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.15.37:197][ 15]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Colosseum
+[2025.12.10-09.15.37:197][ 15]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.15.37:200][ 15]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.15.37:202][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.15.37:272][ 15]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.15.37:277][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.12.10-09.15.37:287][ 15]LogStreaming: Display: FlushAsyncLoading(1021): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.15.37:352][ 15]LogAudio: Display: Audio Device (ID: 79) registered with world 'Mob_Selection_Menu'.
+[2025.12.10-09.15.37:352][ 15]LogChaosDD: Creating Chaos Debug Draw Scene for world Mob_Selection_Menu
+[2025.12.10-09.15.37:354][ 15]LogPlayLevel: PIE: World Init took: (0.002063s)
+[2025.12.10-09.15.37:354][ 15]LogLoad: Game class is 'BP_Mob_Selection_C'
+[2025.12.10-09.15.37:355][ 15]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mob_Selection_Menu.Mob_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.15.37
+[2025.12.10-09.15.37:355][ 15]LogWorld: Bringing up level for play took: 0.000910
+[2025.12.10-09.15.37:355][ 15]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.15.37:359][ 15]LogLoad: Took 0.161806 seconds to LoadMap(/Game/Maps/Mob_Selection_Menu)
+[2025.12.10-09.15.37:359][ 15]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.15.41:038][201]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Selection_Menu"
+[2025.12.10-09.15.41:038][201]LogNet: Browse: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.15.41:038][201]LogLoad: LoadMap: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.15.41:038][201]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mob_Selection_Menu
+[2025.12.10-09.15.41:040][201]LogWorld: UWorld::CleanupWorld for Mob_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.15.41:040][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.15.41:085][201]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.15.41:089][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2025.12.10-09.15.41:099][201]LogStreaming: Display: FlushAsyncLoading(1022): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.15.41:159][201]LogAudio: Display: Audio Device (ID: 79) registered with world 'Map_Selection_Menu'.
+[2025.12.10-09.15.41:159][201]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Selection_Menu
+[2025.12.10-09.15.41:161][201]LogPlayLevel: PIE: World Init took: (0.002217s)
+[2025.12.10-09.15.41:162][201]LogLoad: Game class is 'BP_Map_Selection_C'
+[2025.12.10-09.15.41:162][201]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Selection_Menu.Map_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.15.41
+[2025.12.10-09.15.41:163][201]LogWorld: Bringing up level for play took: 0.000925
+[2025.12.10-09.15.41:163][201]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.15.41:166][201]LogLoad: Took 0.128367 seconds to LoadMap(/Game/Maps/Map_Selection_Menu)
+[2025.12.10-09.15.41:166][201]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.15.42:917][285]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Colosseum"
+[2025.12.10-09.15.42:918][285]LogNet: Browse: /Game/Maps/Map_Colosseum
+[2025.12.10-09.15.42:918][285]LogLoad: LoadMap: /Game/Maps/Map_Colosseum
+[2025.12.10-09.15.42:918][285]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Selection_Menu
+[2025.12.10-09.15.42:920][285]LogWorld: UWorld::CleanupWorld for Map_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.15.42:920][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.15.42:962][285]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.15.42:967][285]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2025.12.10-09.15.42:975][285]LogStreaming: Display: FlushAsyncLoading(1023): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.15.43:063][285]LogAudio: Display: Audio Device (ID: 79) registered with world 'Map_Colosseum'.
+[2025.12.10-09.15.43:064][285]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.15.43:066][285]LogPlayLevel: PIE: World Init took: (0.002834s)
+[2025.12.10-09.15.43:066][285]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.15.43:075][285]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Colosseum.Map_Colosseum up for play (max tick rate 60) at 2025.12.10-01.15.43
+[2025.12.10-09.15.43:076][285]LogWorld: Bringing up level for play took: 0.009115
+[2025.12.10-09.15.43:078][285]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.15.43:081][285]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.15.43:081][285]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.15.43:092][285]LogLoad: Took 0.174748 seconds to LoadMap(/Game/Maps/Map_Colosseum)
+[2025.12.10-09.15.43:093][285]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Colosseum
+[2025.12.10-09.15.58:717][960]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.15.58:717][960]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.16.02:743][140]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Colosseum"
+[2025.12.10-09.16.02:743][140]LogNet: Browse: /Game/Maps/Map_Colosseum
+[2025.12.10-09.16.02:743][140]LogLoad: LoadMap: /Game/Maps/Map_Colosseum
+[2025.12.10-09.16.02:743][140]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Colosseum
+[2025.12.10-09.16.02:744][140]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.16.02:746][140]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.16.02:748][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.16.02:830][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.16.02:836][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.12.10-09.16.02:844][140]LogStreaming: Display: FlushAsyncLoading(1024): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.16.02:928][140]LogAudio: Display: Audio Device (ID: 79) registered with world 'Map_Colosseum'.
+[2025.12.10-09.16.02:928][140]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.16.02:931][140]LogPlayLevel: PIE: World Init took: (0.003308s)
+[2025.12.10-09.16.02:932][140]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.16.02:940][140]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Colosseum.Map_Colosseum up for play (max tick rate 60) at 2025.12.10-01.16.02
+[2025.12.10-09.16.02:940][140]LogWorld: Bringing up level for play took: 0.008318
+[2025.12.10-09.16.02:942][140]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.16.02:944][140]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.16.02:944][140]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.16.02:956][140]LogLoad: Took 0.212354 seconds to LoadMap(/Game/Maps/Map_Colosseum)
+[2025.12.10-09.16.02:956][140]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Colosseum
+[2025.12.10-09.16.09:284][417]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.16.09:284][417]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.10-09.16.09:284][417]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.12.10-09.16.12:280][562]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MainMenu"
+[2025.12.10-09.16.12:280][562]LogNet: Browse: /Game/Maps/MainMenu
+[2025.12.10-09.16.12:280][562]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2025.12.10-09.16.12:280][562]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Colosseum
+[2025.12.10-09.16.12:280][562]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.16.12:284][562]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.16.12:285][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.16.12:360][562]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.16.12:366][562]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2025.12.10-09.16.12:375][562]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.16.12:377][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001944s)
+[2025.12.10-09.16.12:377][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002000s)
+[2025.12.10-09.16.12:377][562]LogAudio: Display: Audio Device (ID: 79) registered with world 'MainMenu'.
+[2025.12.10-09.16.12:377][562]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.16.12:380][562]LogPlayLevel: PIE: World Init took: (0.002629s)
+[2025.12.10-09.16.12:380][562]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.16.12:381][562]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.16.12
+[2025.12.10-09.16.12:381][562]LogWorld: Bringing up level for play took: 0.000483
+[2025.12.10-09.16.12:381][562]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.16.12:382][562]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.16.12:382][562]LogBlueprintUserMessages: [BP_BaseMode_C_0] ERROR: NO PLAYER START FOUND!
+[2025.12.10-09.16.12:383][562]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.12.10-09.16.12:383][562]LogLoad: Took 0.103080 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2025.12.10-09.16.12:383][562]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.16.12:385][562]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.16.18:303][859]Cmd: quit
+[2025.12.10-09.16.18:304][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.16.18:313][859]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.16.18:338][859]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.16.18:338][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.16.18:340][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-09.16.18:349][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.16.18:388][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.16.18:388][859]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2025.12.10-09.16.18:388][859]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79, StreamState=4
+[2025.12.10-09.16.18:392][859]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79, StreamState=2
+[2025.12.10-09.16.18:404][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2025.12.10-09.16.18:490][860]LogPlayLevel: Display: Destroying online subsystem :Context_181
+[2025.12.10-09.19.46:793][764]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-09.19.46:819][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-09.19.46:819][764]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.19.46:821][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001979s)
+[2025.12.10-09.19.46:821][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002025s)
+[2025.12.10-09.19.46:866][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.12.10-09.19.46:872][764]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.19.46:875][764]LogPlayLevel: PIE: World Init took: (0.003684s)
+[2025.12.10-09.19.46:877][764]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2025.12.10-09.19.46:877][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-09.19.46:877][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-09.19.46:877][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-09.19.46:877][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-09.19.46:877][764]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-09.19.46:877][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-09.19.46:877][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-09.19.46:877][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-09.19.46:877][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-09.19.46:877][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-09.19.46:877][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-09.19.46:881][764]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-09.19.46:909][764]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB Audio)
+[2025.12.10-09.19.46:910][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-09.19.46:910][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-09.19.46:910][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-09.19.46:910][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2025.12.10-09.19.46:910][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2025.12.10-09.19.46:915][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2025.12.10-09.19.46:915][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2025.12.10-09.19.46:915][764]LogInit: FAudioDevice initialized with ID 80.
+[2025.12.10-09.19.46:915][764]LogAudio: Display: Audio Device (ID: 80) registered with world 'MainMenu'.
+[2025.12.10-09.19.46:915][764]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 80
+[2025.12.10-09.19.46:923][764]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.19.46:923][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.19.46
+[2025.12.10-09.19.46:923][764]LogWorld: Bringing up level for play took: 0.000490
+[2025.12.10-09.19.46:926][764]LogOnline: OSS: Created online subsystem instance for: :Context_182
+[2025.12.10-09.19.46:928][764]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.19.46:930][764]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.10-09.19.46:932][764]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.19.46:932][764]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.19.46:933][764]PIE: Server logged in
+[2025.12.10-09.19.46:937][764]PIE: Play in editor total start time 0.128 seconds.
+[2025.12.10-09.19.46:941][764]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.19.48:411][833]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.19.48:411][833]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.19.48:416][833]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Class_Selection_Menu"
+[2025.12.10-09.19.48:416][833]LogNet: Browse: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.19.48:416][833]LogLoad: LoadMap: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.19.48:416][833]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.19.48:418][833]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.19.48:419][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.19.48:487][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.19.48:491][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2025.12.10-09.19.48:499][833]LogStreaming: Display: FlushAsyncLoading(1025): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.19.48:552][833]LogAudio: Display: Audio Device (ID: 80) registered with world 'Class_Selection_Menu'.
+[2025.12.10-09.19.48:552][833]LogChaosDD: Creating Chaos Debug Draw Scene for world Class_Selection_Menu
+[2025.12.10-09.19.48:554][833]LogPlayLevel: PIE: World Init took: (0.002020s)
+[2025.12.10-09.19.48:554][833]LogLoad: Game class is 'BP_Class_Select_C'
+[2025.12.10-09.19.48:555][833]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Class_Selection_Menu.Class_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.19.48
+[2025.12.10-09.19.48:555][833]LogWorld: Bringing up level for play took: 0.000678
+[2025.12.10-09.19.48:555][833]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.19.48:558][833]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.19.48:558][833]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.19.48:559][833]LogLoad: Took 0.142485 seconds to LoadMap(/Game/Maps/Class_Selection_Menu)
+[2025.12.10-09.19.48:559][833]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.19.55:050][155]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Marksmen
+[2025.12.10-09.19.55:752][191]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Rogue
+[2025.12.10-09.19.56:656][238]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Wizard
+[2025.12.10-09.19.57:149][263]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_1] Saved Warrior
+[2025.12.10-09.20.00:701][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30696.513672
+[2025.12.10-09.20.00:850][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.20.00:850][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30696.642578, Update Interval: 304.973297
+[2025.12.10-09.20.01:268][480]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Mob_Selection_Menu"
+[2025.12.10-09.20.01:269][480]LogNet: Browse: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.20.01:269][480]LogLoad: LoadMap: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.20.01:269][480]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Class_Selection_Menu
+[2025.12.10-09.20.01:270][480]LogWorld: UWorld::CleanupWorld for Class_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.20.01:270][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.20.01:311][480]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.20.01:315][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.12.10-09.20.01:322][480]LogStreaming: Display: FlushAsyncLoading(1026): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.20.01:382][480]LogAudio: Display: Audio Device (ID: 80) registered with world 'Mob_Selection_Menu'.
+[2025.12.10-09.20.01:382][480]LogChaosDD: Creating Chaos Debug Draw Scene for world Mob_Selection_Menu
+[2025.12.10-09.20.01:384][480]LogPlayLevel: PIE: World Init took: (0.002055s)
+[2025.12.10-09.20.01:384][480]LogLoad: Game class is 'BP_Mob_Selection_C'
+[2025.12.10-09.20.01:385][480]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mob_Selection_Menu.Mob_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.20.01
+[2025.12.10-09.20.01:385][480]LogWorld: Bringing up level for play took: 0.000738
+[2025.12.10-09.20.01:385][480]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.20.01:389][480]LogLoad: Took 0.120376 seconds to LoadMap(/Game/Maps/Mob_Selection_Menu)
+[2025.12.10-09.20.01:389][480]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.20.10:452][956]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Selection_Menu"
+[2025.12.10-09.20.10:452][956]LogNet: Browse: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.20.10:452][956]LogLoad: LoadMap: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.20.10:452][956]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mob_Selection_Menu
+[2025.12.10-09.20.10:453][956]LogWorld: UWorld::CleanupWorld for Mob_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.20.10:453][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.20.10:497][956]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.20.10:501][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.12.10-09.20.10:509][956]LogStreaming: Display: FlushAsyncLoading(1027): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.20.10:566][956]LogAudio: Display: Audio Device (ID: 80) registered with world 'Map_Selection_Menu'.
+[2025.12.10-09.20.10:566][956]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Selection_Menu
+[2025.12.10-09.20.10:568][956]LogPlayLevel: PIE: World Init took: (0.002183s)
+[2025.12.10-09.20.10:568][956]LogLoad: Game class is 'BP_Map_Selection_C'
+[2025.12.10-09.20.10:569][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Selection_Menu.Map_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.20.10
+[2025.12.10-09.20.10:569][956]LogWorld: Bringing up level for play took: 0.000707
+[2025.12.10-09.20.10:569][956]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.20.10:572][956]LogLoad: Took 0.120281 seconds to LoadMap(/Game/Maps/Map_Selection_Menu)
+[2025.12.10-09.20.10:572][956]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.20.16:975][288]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Colosseum"
+[2025.12.10-09.20.16:975][288]LogNet: Browse: /Game/Maps/Map_Colosseum
+[2025.12.10-09.20.16:975][288]LogLoad: LoadMap: /Game/Maps/Map_Colosseum
+[2025.12.10-09.20.16:975][288]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Selection_Menu
+[2025.12.10-09.20.16:977][288]LogWorld: UWorld::CleanupWorld for Map_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.20.16:977][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.20.17:020][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.20.17:024][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.12.10-09.20.17:033][288]LogStreaming: Display: FlushAsyncLoading(1028): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.20.17:113][288]LogAudio: Display: Audio Device (ID: 80) registered with world 'Map_Colosseum'.
+[2025.12.10-09.20.17:113][288]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.20.17:115][288]LogPlayLevel: PIE: World Init took: (0.002107s)
+[2025.12.10-09.20.17:115][288]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.20.17:123][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Colosseum.Map_Colosseum up for play (max tick rate 60) at 2025.12.10-01.20.17
+[2025.12.10-09.20.17:124][288]LogWorld: Bringing up level for play took: 0.008502
+[2025.12.10-09.20.17:126][288]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.20.17:129][288]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.20.17:129][288]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.20.17:154][288]LogLoad: Took 0.178926 seconds to LoadMap(/Game/Maps/Map_Colosseum)
+[2025.12.10-09.20.17:154][288]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Colosseum
+[2025.12.10-09.20.20:887][444]LogCharacterMovement: BP_BaseEnemy_C_4 is stuck and failed to move! Velocity: X=-488.09 Y=-348.95 Z=0.00 Location: X=-787.90 Y=39.23 Z=138.38 Normal: X=0.68 Y=0.36 Z=-0.64 PenetrationDepth:5.496 Actor:BP_WarriorCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.12.10-09.20.43:354][396]LogCharacterMovement: BP_BaseEnemy_C_0 is stuck and failed to move! Velocity: X=-388.96 Y=311.54 Z=0.00 Location: X=-481.33 Y=-2337.09 Z=138.39 Normal: X=0.72 Y=0.10 Z=-0.69 PenetrationDepth:11.189 Actor:BP_WarriorCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.12.10-09.20.52:654][801]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.20.52:655][801]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.21.02:966][199]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Selection_Menu"
+[2025.12.10-09.21.02:966][199]LogNet: Browse: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.21.02:966][199]LogLoad: LoadMap: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.21.02:966][199]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Colosseum
+[2025.12.10-09.21.02:966][199]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.21.02:968][199]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.02:970][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.03:052][199]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.03:058][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2025.12.10-09.21.03:067][199]LogStreaming: Display: FlushAsyncLoading(1029): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.03:127][199]LogAudio: Display: Audio Device (ID: 80) registered with world 'Map_Selection_Menu'.
+[2025.12.10-09.21.03:127][199]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Selection_Menu
+[2025.12.10-09.21.03:129][199]LogPlayLevel: PIE: World Init took: (0.002272s)
+[2025.12.10-09.21.03:129][199]LogLoad: Game class is 'BP_Map_Selection_C'
+[2025.12.10-09.21.03:130][199]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Selection_Menu.Map_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.21.03
+[2025.12.10-09.21.03:130][199]LogWorld: Bringing up level for play took: 0.000735
+[2025.12.10-09.21.03:131][199]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.21.03:133][199]LogLoad: Took 0.166836 seconds to LoadMap(/Game/Maps/Map_Selection_Menu)
+[2025.12.10-09.21.03:133][199]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.21.07:740][432]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Forest"
+[2025.12.10-09.21.07:740][432]LogNet: Browse: /Game/Maps/Map_Forest
+[2025.12.10-09.21.07:740][432]LogLoad: LoadMap: /Game/Maps/Map_Forest
+[2025.12.10-09.21.07:740][432]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Selection_Menu
+[2025.12.10-09.21.07:741][432]LogWorld: UWorld::CleanupWorld for Map_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.07:741][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.07:807][432]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.07:812][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2025.12.10-09.21.07:819][432]LogStreaming: Display: FlushAsyncLoading(1030): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.07:882][432]LogAudio: Display: Audio Device (ID: 80) registered with world 'Map_Forest'.
+[2025.12.10-09.21.07:883][432]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Forest
+[2025.12.10-09.21.07:885][432]LogPlayLevel: PIE: World Init took: (0.002113s)
+[2025.12.10-09.21.07:885][432]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.21.07:886][432]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Forest.Map_Forest up for play (max tick rate 60) at 2025.12.10-01.21.07
+[2025.12.10-09.21.07:887][432]LogWorld: Bringing up level for play took: 0.001954
+[2025.12.10-09.21.07:889][432]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.21.07:891][432]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.21.07:891][432]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.21.07:916][432]LogLoad: Took 0.176804 seconds to LoadMap(/Game/Maps/Map_Forest)
+[2025.12.10-09.21.07:916][432]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Forest
+[2025.12.10-09.21.10:439][535]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.21.10:439][535]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.10-09.21.10:439][535]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.12.10-09.21.12:117][619]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.21.12:117][619]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.12.10-09.21.15:092][741]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.21.15:092][741]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.12.10-09.21.16:789][826]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MainMenu"
+[2025.12.10-09.21.16:789][826]LogNet: Browse: /Game/Maps/MainMenu
+[2025.12.10-09.21.16:789][826]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2025.12.10-09.21.16:789][826]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Forest
+[2025.12.10-09.21.16:789][826]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.21.16:791][826]LogWorld: UWorld::CleanupWorld for Map_Forest, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.16:792][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.16:841][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.16:846][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2025.12.10-09.21.16:854][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.21.16:857][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002234s)
+[2025.12.10-09.21.16:857][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002358s)
+[2025.12.10-09.21.16:857][826]LogAudio: Display: Audio Device (ID: 80) registered with world 'MainMenu'.
+[2025.12.10-09.21.16:857][826]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.21.16:859][826]LogPlayLevel: PIE: World Init took: (0.002572s)
+[2025.12.10-09.21.16:860][826]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.21.16:860][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.21.16
+[2025.12.10-09.21.16:861][826]LogWorld: Bringing up level for play took: 0.000727
+[2025.12.10-09.21.16:861][826]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.21.16:862][826]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.21.16:862][826]LogBlueprintUserMessages: [BP_BaseMode_C_0] ERROR: NO PLAYER START FOUND!
+[2025.12.10-09.21.16:863][826]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.12.10-09.21.16:863][826]LogLoad: Took 0.074055 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2025.12.10-09.21.16:863][826]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.21.16:865][826]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.21.17:805][871]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.21.17:805][871]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.21.17:807][871]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Class_Selection_Menu"
+[2025.12.10-09.21.17:807][871]LogNet: Browse: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.21.17:807][871]LogLoad: LoadMap: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.21.17:807][871]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.21.17:808][871]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.17:809][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.17:878][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.17:882][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.12.10-09.21.17:889][871]LogStreaming: Display: FlushAsyncLoading(1031): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.17:947][871]LogAudio: Display: Audio Device (ID: 80) registered with world 'Class_Selection_Menu'.
+[2025.12.10-09.21.17:947][871]LogChaosDD: Creating Chaos Debug Draw Scene for world Class_Selection_Menu
+[2025.12.10-09.21.17:949][871]LogPlayLevel: PIE: World Init took: (0.002245s)
+[2025.12.10-09.21.17:949][871]LogLoad: Game class is 'BP_Class_Select_C'
+[2025.12.10-09.21.17:950][871]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Class_Selection_Menu.Class_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.21.17
+[2025.12.10-09.21.17:950][871]LogWorld: Bringing up level for play took: 0.000781
+[2025.12.10-09.21.17:950][871]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.21.17:953][871]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.21.17:953][871]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.21.17:954][871]LogLoad: Took 0.146664 seconds to LoadMap(/Game/Maps/Class_Selection_Menu)
+[2025.12.10-09.21.17:954][871]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.21.18:862][916]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_3] Saved Warrior
+[2025.12.10-09.21.19:133][929]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_3] Saved Marksmen
+[2025.12.10-09.21.19:934][969]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_3] Saved Rogue
+[2025.12.10-09.21.20:452][995]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Mob_Selection_Menu"
+[2025.12.10-09.21.20:452][995]LogNet: Browse: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.21.20:452][995]LogLoad: LoadMap: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.21.20:452][995]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Class_Selection_Menu
+[2025.12.10-09.21.20:453][995]LogWorld: UWorld::CleanupWorld for Class_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.20:453][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.20:498][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.20:501][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.12.10-09.21.20:510][995]LogStreaming: Display: FlushAsyncLoading(1032): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.20:573][995]LogAudio: Display: Audio Device (ID: 80) registered with world 'Mob_Selection_Menu'.
+[2025.12.10-09.21.20:573][995]LogChaosDD: Creating Chaos Debug Draw Scene for world Mob_Selection_Menu
+[2025.12.10-09.21.20:576][995]LogPlayLevel: PIE: World Init took: (0.002664s)
+[2025.12.10-09.21.20:576][995]LogLoad: Game class is 'BP_Mob_Selection_C'
+[2025.12.10-09.21.20:577][995]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mob_Selection_Menu.Mob_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.21.20
+[2025.12.10-09.21.20:578][995]LogWorld: Bringing up level for play took: 0.001573
+[2025.12.10-09.21.20:578][995]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.21.20:581][995]LogLoad: Took 0.129604 seconds to LoadMap(/Game/Maps/Mob_Selection_Menu)
+[2025.12.10-09.21.20:582][995]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.21.22:031][ 67]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Selection_Menu"
+[2025.12.10-09.21.22:031][ 67]LogNet: Browse: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.21.22:032][ 67]LogLoad: LoadMap: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.21.22:032][ 67]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mob_Selection_Menu
+[2025.12.10-09.21.22:033][ 67]LogWorld: UWorld::CleanupWorld for Mob_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.22:033][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.22:078][ 67]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.22:082][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.12.10-09.21.22:089][ 67]LogStreaming: Display: FlushAsyncLoading(1033): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.22:151][ 67]LogAudio: Display: Audio Device (ID: 80) registered with world 'Map_Selection_Menu'.
+[2025.12.10-09.21.22:151][ 67]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Selection_Menu
+[2025.12.10-09.21.22:154][ 67]LogPlayLevel: PIE: World Init took: (0.002150s)
+[2025.12.10-09.21.22:154][ 67]LogLoad: Game class is 'BP_Map_Selection_C'
+[2025.12.10-09.21.22:154][ 67]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Selection_Menu.Map_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.21.22
+[2025.12.10-09.21.22:155][ 67]LogWorld: Bringing up level for play took: 0.000749
+[2025.12.10-09.21.22:155][ 67]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.21.22:158][ 67]LogLoad: Took 0.126794 seconds to LoadMap(/Game/Maps/Map_Selection_Menu)
+[2025.12.10-09.21.22:158][ 67]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.21.23:535][137]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Colosseum"
+[2025.12.10-09.21.23:536][137]LogNet: Browse: /Game/Maps/Map_Colosseum
+[2025.12.10-09.21.23:536][137]LogLoad: LoadMap: /Game/Maps/Map_Colosseum
+[2025.12.10-09.21.23:536][137]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Selection_Menu
+[2025.12.10-09.21.23:537][137]LogWorld: UWorld::CleanupWorld for Map_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.23:537][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.23:584][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.23:588][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.12.10-09.21.23:598][137]LogStreaming: Display: FlushAsyncLoading(1034): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.23:684][137]LogAudio: Display: Audio Device (ID: 80) registered with world 'Map_Colosseum'.
+[2025.12.10-09.21.23:684][137]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.21.23:686][137]LogPlayLevel: PIE: World Init took: (0.002466s)
+[2025.12.10-09.21.23:686][137]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.21.23:694][137]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Colosseum.Map_Colosseum up for play (max tick rate 60) at 2025.12.10-01.21.23
+[2025.12.10-09.21.23:695][137]LogWorld: Bringing up level for play took: 0.008413
+[2025.12.10-09.21.23:696][137]LogBlueprintUserMessages: [BP_BaseMode_C_0] Rogue
+[2025.12.10-09.21.23:698][137]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.21.23:699][137]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.21.23:704][137]LogLoad: Took 0.168780 seconds to LoadMap(/Game/Maps/Map_Colosseum)
+[2025.12.10-09.21.23:704][137]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Colosseum
+[2025.12.10-09.21.37:814][756]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.21.37:814][756]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.12.10-09.21.38:735][801]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MainMenu"
+[2025.12.10-09.21.38:735][801]LogNet: Browse: /Game/Maps/MainMenu
+[2025.12.10-09.21.38:735][801]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2025.12.10-09.21.38:735][801]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Colosseum
+[2025.12.10-09.21.38:735][801]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.21.38:740][801]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.38:741][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.38:830][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.38:836][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.12.10-09.21.38:845][801]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.21.38:847][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001920s)
+[2025.12.10-09.21.38:847][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001979s)
+[2025.12.10-09.21.38:847][801]LogAudio: Display: Audio Device (ID: 80) registered with world 'MainMenu'.
+[2025.12.10-09.21.38:847][801]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.21.38:849][801]LogPlayLevel: PIE: World Init took: (0.002216s)
+[2025.12.10-09.21.38:849][801]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.21.38:850][801]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.21.38
+[2025.12.10-09.21.38:850][801]LogWorld: Bringing up level for play took: 0.000470
+[2025.12.10-09.21.38:850][801]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.21.38:851][801]LogBlueprintUserMessages: [BP_BaseMode_C_0] Rogue
+[2025.12.10-09.21.38:851][801]LogBlueprintUserMessages: [BP_BaseMode_C_0] ERROR: NO PLAYER START FOUND!
+[2025.12.10-09.21.38:852][801]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.12.10-09.21.38:852][801]LogLoad: Took 0.116094 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2025.12.10-09.21.38:852][801]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.21.38:853][801]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.21.39:590][837]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.21.39:590][837]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.21.39:592][837]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Class_Selection_Menu"
+[2025.12.10-09.21.39:592][837]LogNet: Browse: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.21.39:592][837]LogLoad: LoadMap: /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.21.39:592][837]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.21.39:593][837]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.39:593][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.39:661][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.39:665][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2025.12.10-09.21.39:672][837]LogStreaming: Display: FlushAsyncLoading(1035): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.39:735][837]LogAudio: Display: Audio Device (ID: 80) registered with world 'Class_Selection_Menu'.
+[2025.12.10-09.21.39:735][837]LogChaosDD: Creating Chaos Debug Draw Scene for world Class_Selection_Menu
+[2025.12.10-09.21.39:737][837]LogPlayLevel: PIE: World Init took: (0.002264s)
+[2025.12.10-09.21.39:737][837]LogLoad: Game class is 'BP_Class_Select_C'
+[2025.12.10-09.21.39:738][837]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Class_Selection_Menu.Class_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.21.39
+[2025.12.10-09.21.39:738][837]LogWorld: Bringing up level for play took: 0.000849
+[2025.12.10-09.21.39:739][837]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.21.39:741][837]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.21.39:741][837]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.10-09.21.39:743][837]LogLoad: Took 0.150785 seconds to LoadMap(/Game/Maps/Class_Selection_Menu)
+[2025.12.10-09.21.39:743][837]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Class_Selection_Menu
+[2025.12.10-09.21.40:488][874]LogBlueprintUserMessages: [WBP_Class_Select_Menu_C_5] Saved Warrior
+[2025.12.10-09.21.44:968][102]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Mob_Selection_Menu"
+[2025.12.10-09.21.44:968][102]LogNet: Browse: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.21.44:968][102]LogLoad: LoadMap: /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.21.44:968][102]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Class_Selection_Menu
+[2025.12.10-09.21.44:969][102]LogWorld: UWorld::CleanupWorld for Class_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.44:969][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.45:018][102]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.45:022][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2025.12.10-09.21.45:032][102]LogStreaming: Display: FlushAsyncLoading(1036): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.45:094][102]LogAudio: Display: Audio Device (ID: 80) registered with world 'Mob_Selection_Menu'.
+[2025.12.10-09.21.45:095][102]LogChaosDD: Creating Chaos Debug Draw Scene for world Mob_Selection_Menu
+[2025.12.10-09.21.45:096][102]LogPlayLevel: PIE: World Init took: (0.001996s)
+[2025.12.10-09.21.45:096][102]LogLoad: Game class is 'BP_Mob_Selection_C'
+[2025.12.10-09.21.45:097][102]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mob_Selection_Menu.Mob_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.21.45
+[2025.12.10-09.21.45:097][102]LogWorld: Bringing up level for play took: 0.000681
+[2025.12.10-09.21.45:098][102]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.21.45:101][102]LogLoad: Took 0.133341 seconds to LoadMap(/Game/Maps/Mob_Selection_Menu)
+[2025.12.10-09.21.45:101][102]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Mob_Selection_Menu
+[2025.12.10-09.21.47:241][211]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Selection_Menu"
+[2025.12.10-09.21.47:241][211]LogNet: Browse: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.21.47:241][211]LogLoad: LoadMap: /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.21.47:241][211]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mob_Selection_Menu
+[2025.12.10-09.21.47:243][211]LogWorld: UWorld::CleanupWorld for Mob_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.47:243][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.47:287][211]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.47:291][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2025.12.10-09.21.47:301][211]LogStreaming: Display: FlushAsyncLoading(1037): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.47:365][211]LogAudio: Display: Audio Device (ID: 80) registered with world 'Map_Selection_Menu'.
+[2025.12.10-09.21.47:365][211]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Selection_Menu
+[2025.12.10-09.21.47:368][211]LogPlayLevel: PIE: World Init took: (0.002445s)
+[2025.12.10-09.21.47:368][211]LogLoad: Game class is 'BP_Map_Selection_C'
+[2025.12.10-09.21.47:368][211]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Selection_Menu.Map_Selection_Menu up for play (max tick rate 60) at 2025.12.10-01.21.47
+[2025.12.10-09.21.47:369][211]LogWorld: Bringing up level for play took: 0.000714
+[2025.12.10-09.21.47:369][211]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.21.47:372][211]LogLoad: Took 0.131326 seconds to LoadMap(/Game/Maps/Map_Selection_Menu)
+[2025.12.10-09.21.47:373][211]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Selection_Menu
+[2025.12.10-09.21.48:853][283]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Colosseum"
+[2025.12.10-09.21.48:853][283]LogNet: Browse: /Game/Maps/Map_Colosseum
+[2025.12.10-09.21.48:853][283]LogLoad: LoadMap: /Game/Maps/Map_Colosseum
+[2025.12.10-09.21.48:853][283]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Selection_Menu
+[2025.12.10-09.21.48:856][283]LogWorld: UWorld::CleanupWorld for Map_Selection_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.21.48:856][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.21.48:918][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.21.48:922][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.12.10-09.21.48:930][283]LogStreaming: Display: FlushAsyncLoading(1038): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.49:016][283]LogAudio: Display: Audio Device (ID: 80) registered with world 'Map_Colosseum'.
+[2025.12.10-09.21.49:017][283]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.21.49:019][283]LogPlayLevel: PIE: World Init took: (0.002459s)
+[2025.12.10-09.21.49:019][283]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.21.49:028][283]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Colosseum.Map_Colosseum up for play (max tick rate 60) at 2025.12.10-01.21.49
+[2025.12.10-09.21.49:028][283]LogWorld: Bringing up level for play took: 0.008912
+[2025.12.10-09.21.49:030][283]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.21.49:032][283]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.10-09.21.49:032][283]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.10-09.21.49:044][283]LogLoad: Took 0.190338 seconds to LoadMap(/Game/Maps/Map_Colosseum)
+[2025.12.10-09.21.49:044][283]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Colosseum
+[2025.12.10-09.22.03:431][905]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.12.10-09.22.06:293][ 22]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Map_Colosseum"
+[2025.12.10-09.22.06:293][ 22]LogNet: Browse: /Game/Maps/Map_Colosseum
+[2025.12.10-09.22.06:293][ 22]LogLoad: LoadMap: /Game/Maps/Map_Colosseum
+[2025.12.10-09.22.06:293][ 22]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Colosseum
+[2025.12.10-09.22.06:293][ 22]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.22.06:297][ 22]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.22.06:298][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.22.06:380][ 22]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.22.06:390][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2025.12.10-09.22.06:400][ 22]LogStreaming: Display: FlushAsyncLoading(1039): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.22.06:485][ 22]LogAudio: Display: Audio Device (ID: 80) registered with world 'Map_Colosseum'.
+[2025.12.10-09.22.06:485][ 22]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.22.06:487][ 22]LogPlayLevel: PIE: World Init took: (0.002215s)
+[2025.12.10-09.22.06:487][ 22]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.22.06:495][ 22]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Colosseum.Map_Colosseum up for play (max tick rate 60) at 2025.12.10-01.22.06
+[2025.12.10-09.22.06:496][ 22]LogWorld: Bringing up level for play took: 0.008383
+[2025.12.10-09.22.06:497][ 22]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.22.06:511][ 22]LogLoad: Took 0.218738 seconds to LoadMap(/Game/Maps/Map_Colosseum)
+[2025.12.10-09.22.06:512][ 22]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Map_Colosseum
+[2025.12.10-09.22.09:810][165]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-09.22.09:810][165]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.12.10-09.22.10:882][218]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MainMenu"
+[2025.12.10-09.22.10:882][218]LogNet: Browse: /Game/Maps/MainMenu
+[2025.12.10-09.22.10:882][218]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2025.12.10-09.22.10:882][218]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Colosseum
+[2025.12.10-09.22.10:882][218]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.22.10:884][218]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.22.10:885][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.22.10:947][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.22.10:952][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.12.10-09.22.10:962][218]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.22.10:964][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002045s)
+[2025.12.10-09.22.10:964][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002107s)
+[2025.12.10-09.22.10:964][218]LogAudio: Display: Audio Device (ID: 80) registered with world 'MainMenu'.
+[2025.12.10-09.22.10:964][218]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.12.10-09.22.10:966][218]LogPlayLevel: PIE: World Init took: (0.002270s)
+[2025.12.10-09.22.10:966][218]LogLoad: Game class is 'BP_BaseMode_C'
+[2025.12.10-09.22.10:967][218]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.12.10-01.22.10
+[2025.12.10-09.22.10:967][218]LogWorld: Bringing up level for play took: 0.000499
+[2025.12.10-09.22.10:967][218]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.10-09.22.10:968][218]LogBlueprintUserMessages: [BP_BaseMode_C_0] Warrior
+[2025.12.10-09.22.10:968][218]LogBlueprintUserMessages: [BP_BaseMode_C_0] ERROR: NO PLAYER START FOUND!
+[2025.12.10-09.22.10:969][218]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.12.10-09.22.10:969][218]LogLoad: Took 0.087203 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2025.12.10-09.22.10:969][218]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.22.10:971][218]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.12.10-09.22.12:245][282]Cmd: quit
+[2025.12.10-09.22.12:246][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.22.12:254][282]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2025.12.10-09.22.12:278][282]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.22.12:278][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.22.12:280][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-09.22.12:288][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.22.12:324][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.22.12:324][282]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2025.12.10-09.22.12:324][282]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80, StreamState=4
+[2025.12.10-09.22.12:328][282]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80, StreamState=2
+[2025.12.10-09.22.12:339][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.12.10-09.22.12:573][283]LogPlayLevel: Display: Destroying online subsystem :Context_182
+[2025.12.10-09.22.19:289][595]LogSlate: Window 'Message Log' being destroyed
+[2025.12.10-09.22.19:309][595]LogSlate: Window 'Message Log' being destroyed
+[2025.12.10-09.24.12:067][538]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseMode.BP_BaseMode
+[2025.12.10-09.24.12:068][538]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_136
+[2025.12.10-09.24.23:719][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/MyGameInstance.MyGameInstance
+[2025.12.10-09.24.23:720][ 13]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_137
+[2025.12.10-09.24.29:920][326]LogWorld: UWorld::CleanupWorld for World_137, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.24.29:921][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.24.30:091][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2025.12.10-09.25.32:593][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2025.12.10-09.25.32:601][807]LogStreaming: Display: FlushAsyncLoading(1040): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.25.32:751][807]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.25.32:762][807]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Map_Colosseum.Map_Colosseum
+[2025.12.10-09.25.32:762][807]Cmd: MAP LOAD FILE="C:/Users/BCL26/Documents/Unreal Projects/Master-Slayer/TheBigGame/Content/Maps/Map_Colosseum.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.10-09.25.32:842][807]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.25.32:842][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.25.32:885][807]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.25.32:892][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2025.12.10-09.25.32:900][807]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.25.32:900][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.25.32:946][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.12.10-09.25.32:999][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.12.10-09.25.33:092][807]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Colosseum'.
+[2025.12.10-09.25.33:092][807]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Colosseum
+[2025.12.10-09.25.33:202][807]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.10-09.25.33:246][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.12.10-09.25.33:276][807]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.10-09.25.33:276][807]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2025.12.10-09.26.01:876][121]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31057.791016
+[2025.12.10-09.26.02:009][129]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.26.02:009][129]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31057.908203, Update Interval: 317.745300
+[2025.12.10-09.29.55:659][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.10-09.29.55:859][910]LogStall: Shutdown...
+[2025.12.10-09.29.55:873][910]LogStall: Shutdown complete.
+[2025.12.10-09.29.56:210][910]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.29.56:211][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.29.57:702][910]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-09.29.57:702][910]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.29.57:702][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.00:452][910]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.00:452][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.00:466][910]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.00:466][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.00:589][910]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.00:589][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.00:710][910]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-09.30.00:710][910]LogWorld: UWorld::CleanupWorld for World_136, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.00:711][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.01:018][910]LogSlate: Window 'TheBigGame - Unreal Editor' being destroyed
+[2025.12.10-09.30.13:493][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.12.10-09.30.13:608][910]Cmd: QUIT_EDITOR
+[2025.12.10-09.30.13:628][911]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.10-09.30.13:769][911]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.10-09.30.13:851][911]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.10-09.30.13:874][911]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.10-09.30.13:990][911]LogWorld: UWorld::CleanupWorld for Map_Colosseum, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.13:991][911]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.30.13:992][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.14:864][911]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.10-09.30.14:911][911]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.10-09.30.15:197][911]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.10-09.30.16:246][911]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:246][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:254][911]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:254][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:262][911]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:262][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:269][911]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:269][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:275][911]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:276][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:280][911]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:280][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:285][911]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:285][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:289][911]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:289][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:293][911]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:293][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:298][911]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:298][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:304][911]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:304][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:308][911]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:308][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:312][911]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:312][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:317][911]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:317][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:322][911]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:322][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:327][911]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:327][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:332][911]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:332][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:337][911]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:337][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:342][911]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:342][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:349][911]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:349][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:354][911]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:354][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:359][911]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:359][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:364][911]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:365][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:372][911]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:372][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:377][911]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:377][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:382][911]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:382][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:387][911]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:387][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:394][911]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:394][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:399][911]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:400][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:407][911]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:407][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:411][911]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:412][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:416][911]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:416][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:589][911]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:589][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:593][911]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.30.16:593][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.30.16:926][911]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.10-09.30.16:986][911]LogStudioTelemetry: Ended StudioTelemetry Session
