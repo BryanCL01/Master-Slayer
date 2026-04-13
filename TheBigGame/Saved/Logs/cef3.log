@@ -1,0 +1,17 @@
+[0412/203727.961:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/203727.961:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/203731.137:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0412/203732.966:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/203732.968:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/203737.971:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/203737.973:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/203742.976:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/203742.985:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/203747.980:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/204518.339:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/204518.373:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/210405.279:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0412/210405.399:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0412/210406.893:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 346 ms
+[0412/210805.739:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0412/210805.739:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
